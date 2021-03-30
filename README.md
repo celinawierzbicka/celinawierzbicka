@@ -1,9 +1,7 @@
 ### Hi there, my name is Celina!
 
 - :woman_scientist: I'm a PhD in Biomedical Science who switched career to IT
-- :computer: Currently working as a Frontend Developer at Swapcard
-- :dart: My professional goal for 2020 is to master React
-- :drum: In my free time I like to learn playing drums
+
 
 ## Connect with me
 
